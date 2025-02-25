@@ -2,7 +2,7 @@ import React from 'react'
 
 function AdminSidebar() {
   return (
-    <aside className="w-full p-6 sm:w-60 dark:bg-gray-50 dark:text-gray-800">
+    <aside className="w-full p-6 sm:w-60 bg-slate-900 text-white">
 	<nav className="space-y-8 text-sm">
 		<div className="space-y-2">
 			<h2 className="text-sm font-semibold tracking-widest uppercase dark:text-gray-600">Getting Started</h2>
